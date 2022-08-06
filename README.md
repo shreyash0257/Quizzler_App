@@ -1,16 +1,20 @@
-# quizzler_flutter
+Quizzler App using Flutter
 
-A new Flutter project.
+![ezgif-3-2778e47215](https://user-images.githubusercontent.com/98897735/183261416-78514123-09f8-40b8-963e-703d6e1f71b4.gif)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Created for learning purposes.
 
-A few resources to get you started if this is your first Flutter project:
+Modularising your code into separate classes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dart classes and objects.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Using class constructors.
+
+Extracting Widgets to refactor your code.
+
+private and public modifiers in Dart.
+
+Dart lists.
+
+The difference between var, const and final.
